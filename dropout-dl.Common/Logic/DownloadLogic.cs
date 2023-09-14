@@ -1,8 +1,8 @@
-﻿using dropout_dl_ui.Models;
+﻿using dropout_dl.Common.Enums;
 using HtmlAgilityPack;
 using System.Text.RegularExpressions;
 
-namespace dropout_dl_ui.Logic
+namespace dropout_dl.Common.Logic
 {
     public class DownloadLogic
     {
